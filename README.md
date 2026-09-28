@@ -45,6 +45,7 @@ text, and any reserved-font-name terms.
 | `ChironHeiHK-B.ttf` | [chiron-fonts/chiron-hei-hk](https://github.com/chiron-fonts/chiron-hei-hk) | SIL OFL 1.1 |
 | `Huninn-Regular.ttf` | [justfont/open-huninn-font](https://github.com/justfont/open-huninn-font) (jf-openhuninn 粉圓體) | SIL OFL 1.1 |
 | `NotoSerif-Regular.ttf` | [notofonts/latin-greek-cyrillic](https://github.com/notofonts/latin-greek-cyrillic) | SIL OFL 1.1 |
+| `NotoSans-VariableFont_wdth,wght.ttf` | [notofonts/latin-greek-cyrillic](https://github.com/notofonts/latin-greek-cyrillic) | SIL OFL 1.1 |
 | `NotoSansTC-VariableFont_wght.ttf` | [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk) | SIL OFL 1.1 |
 | `NotoSansSC-VariableFont_wght.ttf` | [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk) | SIL OFL 1.1 |
 | `NotoSansHK-VariableFont_wght.ttf` | [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk) | SIL OFL 1.1 |
