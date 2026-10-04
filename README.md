@@ -56,6 +56,7 @@ text, and any reserved-font-name terms.
 | `mplus-1m-medium.ttf` | [coz-m/mplus_outline_fonts](https://github.com/coz-m/mplus_outline_fonts) | SIL OFL 1.1 |
 | `MPLUSRounded1c-Regular.ttf` | [coz-m/mplus_outline_fonts](https://github.com/coz-m/mplus_outline_fonts) | SIL OFL 1.1 |
 | `GoogleSans-VariableFont_GRAD,opsz,wght.ttf` | [itfoundry/google-sans-thai](https://github.com/itfoundry/google-sans-thai) | SIL OFL 1.1 |
+| `NotoSansCanadianAboriginal-VariableFont_wght.ttf` | [notofonts/canadian-aboriginal](https://github.com/notofonts/canadian-aboriginal) (via google/fonts) | SIL OFL 1.1 |
 
 The `LICENSES/` folder contains the canonical OFL-1.1 text plus a
 per-font credits file that lists each font's copyright statement and

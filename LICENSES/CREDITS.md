@@ -49,6 +49,14 @@ the up-to-date text from the upstream's own `OFL.txt` /
 * **Copyright:** Copyright 2022 The Noto Project Authors.
 * **Reserved Font Name:** "Noto".
 
+## Noto Sans Canadian Aboriginal
+
+* **File:** `NotoSansCanadianAboriginal-VariableFont_wght.ttf`
+* **Upstream:** <https://github.com/notofonts/canadian-aboriginal>
+  (via <https://github.com/google/fonts/tree/main/ofl/notosanscanadianaboriginal>)
+* **Copyright:** Copyright 2022 The Noto Project Authors.
+* **Reserved Font Name:** "Noto".
+
 ## Noto Sans CJK (TC / SC / HK / JP / KR — variable-weight)
 
 * **Files:** `NotoSansTC-VariableFont_wght.ttf`,
